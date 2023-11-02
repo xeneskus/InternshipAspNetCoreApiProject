@@ -1,0 +1,12 @@
+D:\btknet\MyProject\MyProject.WorkerService\bin\Debug\net6.0\MyProject.WorkerService.deps.json
+D:\btknet\MyProject\MyProject.WorkerService\bin\Debug\net6.0\MyProject.WorkerService.dll
+D:\btknet\MyProject\MyProject.WorkerService\bin\Debug\net6.0\MyProject.WorkerService.pdb
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\MyProject.WorkerService.csproj.AssemblyReference.cache
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\MyProject.WorkerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\MyProject.WorkerService.AssemblyInfoInputs.cache
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\MyProject.WorkerService.AssemblyInfo.cs
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\MyProject.WorkerService.csproj.CoreCompileInputs.cache
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\MyProject.WorkerService.dll
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\refint\MyProject.WorkerService.dll
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\MyProject.WorkerService.pdb
+D:\btknet\MyProject\MyProject.WorkerService\obj\Debug\net6.0\ref\MyProject.WorkerService.dll

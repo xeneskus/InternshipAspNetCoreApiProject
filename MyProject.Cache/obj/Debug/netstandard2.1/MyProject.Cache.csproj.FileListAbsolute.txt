@@ -1,0 +1,10 @@
+D:\btknet\MyProject\MyProject.Cache\bin\Debug\netstandard2.1\MyProject.Cache.deps.json
+D:\btknet\MyProject\MyProject.Cache\bin\Debug\netstandard2.1\MyProject.Cache.dll
+D:\btknet\MyProject\MyProject.Cache\bin\Debug\netstandard2.1\MyProject.Cache.pdb
+D:\btknet\MyProject\MyProject.Cache\obj\Debug\netstandard2.1\MyProject.Cache.csproj.AssemblyReference.cache
+D:\btknet\MyProject\MyProject.Cache\obj\Debug\netstandard2.1\MyProject.Cache.GeneratedMSBuildEditorConfig.editorconfig
+D:\btknet\MyProject\MyProject.Cache\obj\Debug\netstandard2.1\MyProject.Cache.AssemblyInfoInputs.cache
+D:\btknet\MyProject\MyProject.Cache\obj\Debug\netstandard2.1\MyProject.Cache.AssemblyInfo.cs
+D:\btknet\MyProject\MyProject.Cache\obj\Debug\netstandard2.1\MyProject.Cache.csproj.CoreCompileInputs.cache
+D:\btknet\MyProject\MyProject.Cache\obj\Debug\netstandard2.1\MyProject.Cache.dll
+D:\btknet\MyProject\MyProject.Cache\obj\Debug\netstandard2.1\MyProject.Cache.pdb

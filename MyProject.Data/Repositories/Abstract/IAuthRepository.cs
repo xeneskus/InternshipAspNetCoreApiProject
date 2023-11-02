@@ -1,0 +1,13 @@
+﻿using MyProject.Core.Entities;
+
+namespace MyProject.Data.Repositories.Abstract
+{
+    public interface IAuthRepository
+    {
+        //Task<User> Register(User user, string password);
+        Task<User> Login(string userName, string password);
+        Task<bool> UserExist(string userName);
+
+
+    }
+}
